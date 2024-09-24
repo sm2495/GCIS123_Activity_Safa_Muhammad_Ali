@@ -10,7 +10,7 @@ Mutete Kimweli: https://github.com/mutete-k/lab1-gcis123
 Safa Muhammad Ali : https://github.com/sm2495/GCIS123_Activity_Safa_Muhammad_Ali
 """
 import turtle
-import random
+
 
 """
 The first 4 functions in our program ask for the users input. These functions are very important to the program as the rest of the 
